@@ -105,6 +105,37 @@ Other video
 ---
 
 ## Project 4: Idemia
+### Overview
+Architected and developed scalable full-stack applications, optimizing front-end performance, enhancing data processing efficiency, and improving system scalability. Designed and led the development of an image annotation application and an API engine that optimized resource utilization.
+
+### Technologies Used
+- **Frontend:** React.js, React Konva, Redux, CSS, SCSS, LASS
+- **Backend:** Node.js, Express.js, Python Django REST Framework, GraphQL
+- **Authentication & Security:** JWT, Zero-Trust Architecture
+- **Database:** MongoDB (NoSQL), Django ORM, Optimized Query Indexing
+- **Infrastructure & DevOps:** AWS (EC2, ALB, S3, Lambda, Terraform), Docker, Jenkins, Nginx, RabbitMQ, Vagrant
+- **Testing:** Jest, Cypress, Selenium
+- **Other:** Postman, Swagger, Amazon Mechanical Turk
+
+#### **Project 1: Full-Stack Application Architecture**
+- Architected a **React.js + Node.js** full-stack application, improving front-end performance by **40%** and increasing user retention.
+- Designed scalable **microservices** using Express.js and GraphQL, reducing API response times by **30%** and optimizing query performance.
+- Developed a **JWT-based authentication system**, reducing authentication failures by **25%** and ensuring secure user sessions.
+- Led **CI/CD pipeline automation** using Jenkins and Terraform, cutting deployment time by **35%** and improving release velocity.
+- **Filed a patent** for an **API engine** that optimized resource utilization, reducing server load by **20%**.
+- Integrated **RabbitMQ for asynchronous processing**, reducing high-volume transaction processing time by **35%**.
+- **Enhanced application performance and security** by implementing **zero-trust architecture**, reducing unauthorized access risks by **30%**.
+
+#### **Project 2: Scalable Image Annotation Application**
+- Led **frontend architecture** for a scalable **image annotation application**, improving data annotation efficiency by **40%** using **Amazon Mechanical Turk**.
+- Architected a **RESTful API** using **Python Django REST Framework**, optimizing data handling and retrieval performance by **30%**.
+- Developed a **scalable coordinate system** in ReactJS for **dynamic zooming and precise image labeling**, ensuring seamless backend integration.
+- Designed **advanced annotation tools** using **React Konva**, increasing annotation accuracy by **35%** and improving user engagement.
+- Implemented **JWT-based authentication, MongoDB optimizations, and Django ORM enhancements**, reducing data retrieval time by **30%**.
+- Deployed on **AWS using Terraform, AWS ALB, and Docker**, improving scalability and deployment speed by **40%**.
+- Integrated **RabbitMQ** for efficient image dataset processing, reducing processing time by **35%** under heavy load.
+- Established a **CI/CD pipeline with Jenkins**, streamlined Git workflows, and reduced deployment times by **35%**.
+- **Mentored junior developers**, led frontend architecture decisions, and ensured best practices for maintainable and scalable solutions.
 
 ### Screenshots
 ![Screenshot Description](./pictures/mestalab.jpg)
@@ -153,7 +184,25 @@ This project is a Storybook-based UI Component Library developed to streamline U
 
 ## Project 9: FCode Essentials
 
-*(Content for this project can be added here.)*
+### Overview
+Designed and implemented scalable, high-performance .NET applications, enhancing code maintainability, user experience, and backend efficiency. Developed core business logic, optimized database interactions, and improved application responsiveness.
+
+### Technologies Used
+- **Frontend:** ASP.NET Web Forms, MVC, Razor Views, AJAX, JavaScript, CSS
+- **Backend:** C#, .NET Design Patterns, Web API, Dependency Injection, Service Layers
+- **Database:** ADO.NET, Entity Framework, T-SQL, Stored Procedures, Triggers
+- **Testing & Logging:** NUnit, Serilog, LINQ to XML
+- **Infrastructure & Deployment:** IIS, Visual Studio
+
+### Features
+- Designed and implemented **C# classes, interfaces, and models**, improving code maintainability and team productivity.
+- Developed **ASP.NET Web Forms, MVC controllers, and Razor views** to dynamically generate HTML and implement core business logic, enhancing user interface responsiveness.
+- Optimized database performance using **ADO.NET for database connectivity** and **T-SQL queries, stored procedures, and triggers**, improving data processing efficiency by **25%**.
+- Streamlined backend processes by developing **Web API controllers, implementing dependency injection, and structuring service layers**, increasing application efficiency and reliability.
+- Structured and optimized databases using **Entity Framework**, ensuring efficient data storage and retrieval.
+- Enhanced web application responsiveness and **user experience** with **ASP.NET MVC, AJAX, JavaScript, and CSS**.
+- Performed **XML processing with LINQ to XML**, created and executed test plans using **NUnit**, and monitored error logs with **Serilog**, ensuring robust and stable application performance.
+- Built and deployed scalable applications using **IIS and Visual Studio**, reducing development time and improving deployment speed.
 
 ---
 
