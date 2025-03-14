@@ -21,6 +21,9 @@ Welcome to my projects showcase! This file highlights some of the projects I've 
 ### Overview
 At Xendit, I developed a scalable UI component library using React Storybook with TypeScript. This involved converting Figma designs into reusable TypeScript-based React components, ensuring type safety and consistency across applications. Additionally, I worked on a POC for Microfrontend Architecture, which was later implemented on a cloud platform to enable independent deployment of UI modules.
 
+### Main Problem
+- Different products needed to be look like same
+- Synchronization of Design overhead issues 
 ### Technologies Used
 - **React (JavaScript)** – Strongly typed UI components
 - **Storybook (JavaScript)** – Component development & documentation
@@ -148,9 +151,29 @@ Architected and developed scalable full-stack applications, optimizing front-end
 ---
 
 ## Project 6: mHealth Intervention VS Medical Inheritance
+### Overview
+This research examines the economic impact of mobile health (mHealth) interventions on the medical expenditures of diabetic patients. By utilizing **Markov models**, the study estimates how self-management and support mobile apps influence medication adherence and long-term healthcare costs. The findings provide insights for healthcare professionals, policymakers, and researchers on the cost-effectiveness of mHealth interventions.
+
+### Technologies Used
+- **Modeling & Simulation:** Markov Models, R 4.3.0
+- **Data Sources:** Medical Expenditures Panel Survey (MEPS), National Diabetes Statistics Report
+- **Database & Statistical Analysis:** Multum Medication Database, Transition Probability Matrices
+- **Medical & Health Technology:** mHealth Apps, Medication Adherence Measurement
+- **Software Tools:** msm package in R, PRISMA framework for systematic review
+
+### Features
+- **Developed Markov models** to estimate the impact of mHealth interventions on Type 2 Diabetes (T2D) patients over a **30-year period**.
+- **Synthesized findings from previous studies** to evaluate how mHealth apps improve medication adherence and health outcomes.
+- **Performed a systematic literature review and meta-analysis**, following PRISMA guidelines, to assess the effectiveness of mobile interventions.
+- **Analyzed MEPS data** to track changes in medical expenditures related to medication adherence.
+- **Implemented medication adherence classification** using Medication Possession Ratio (MPR) to assess adherence trends.
+- **Identified key factors** affecting medical expenditures, including race/ethnicity, insurance coverage, and duration of diabetes diagnosis.
+- **Simulated economic savings**, estimating **$132 million in healthcare cost reductions for 10,000 patients over 30 years** due to improved adherence through mHealth intervention.
+- **Modeled patient transition probabilities** to understand shifts in adherence levels over time, demonstrating that **higher adherence correlates with lower medical costs**.
+- **Proposed policy implications** for
 
 *(Content for this project can be added here.)*
-
+**Submission:** [Paper](https://easychair.org/conferences2/overview?a=31142230)
 ---
 
 ## Project 7: Docker Hadoop
