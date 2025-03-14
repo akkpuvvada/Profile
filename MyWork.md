@@ -44,34 +44,52 @@ At Xendit, I developed a scalable UI component library using React Storybook wit
 
 ## Project 2: Launch Legends
 ### Overview
-At Xendit, I developed a scalable UI component library using React Storybook with TypeScript. This involved converting Figma designs into reusable TypeScript-based React components, ensuring type safety and consistency across applications. Additionally, I worked on a POC for Microfrontend Architecture, which was later implemented on a cloud platform to enable independent deployment of UI modules.
+Developed high-performance cross-platform mobile and web applications, ensuring optimized performance and seamless user experience.
 
 ### Technologies Used
-- **React (JavaScript)** – Strongly typed UI components
-- **Storybook (JavaScript)** – Component development & documentation
-- **Microfrontend Architecture** – Modular frontend development
-- **Webpack Module Federation** – Dynamically loading microfrontends
-- **Cloud Deployment (AWS/Azure/GCP)** – Hosting microfrontends independently
-- **Figma** – Design reference & UI implementation
-- **GitHub** – Version control & package distribution
+- React Native
+- React.js
+- Node.js
+- Redux
+- RESTful APIs
+- GraphQL
+- OAuth 2.0
+- JWT
 
 ### Features
-- **Developed a TypeScript-based UI Component Library** – Strongly typed reusable React components.
-- **Converted Figma Designs to TypeScript Components** – Ensured pixel-perfect UI implementation.
-- **Implemented Storybook for Component Testing** – Enabled isolated development and documentation.
-- **POC for Microfrontend Architecture** – Explored & validated a strategy for modular frontend applications.
-- **Deployed Microfrontends to Cloud** – Enabled independent deployment of UI modules.
-
-### Screenshots
-![Screenshot Description](./pictures/mestalab.jpg)
-> *Tip: Replace the image path with your actual screenshot file path or URL.*
-
-### Links
-- **Live Demo:** [View Demo](https://dashboard.xendit.co/login)
+- Integrated RESTful APIs and GraphQL endpoints, optimizing data synchronization and reducing latency by 30%.
+- Led front-end state management with Redux, improving application efficiency and reducing rendering times by 25%.
+- Implemented authentication and authorization using OAuth 2.0 and JWT, ensuring secure user sessions.
+- Mentored junior developers, conducted code reviews, and enforced best practices in Agile environments.
 
 ---
 
 ## Project 3: Hololens and AVP Boilerplate
+### Overview
+Engineered immersive mixed reality applications using Apple Vision Pro and HoloLens 2, enhancing real-world interactions, spatial mapping, and precision. Collaborated with researchers and UX designers to improve accessibility and user experience.
+
+### Technologies Used
+- Apple Vision Pro
+- HoloLens 2
+- RealityKit
+- Azure Spatial Anchors
+- React.js
+- Redux
+- Node.js
+- Django REST Framework
+- GraphQL
+- AWS (EC2, S3, Lambda, CloudFormation, Terraform)
+- Jenkins, Docker, Kubernetes
+- Jest, Mocha, Cypress
+
+### Features
+- Developed mixed reality applications using Apple Vision Pro and RealityKit, integrating Azure Spatial Anchors for accurate real-world coordinate mapping.
+- Enhanced real-world interactions by engineering spatial computing experiences, improving precision in AR applications.
+- Led the migration of legacy applications to AWS, leveraging EC2, S3, Lambda, CloudFormation, and Terraform, improving system scalability by 50%.
+- Developed and optimized APIs with Django REST Framework and GraphQL, reducing data retrieval time by 30% and increasing query efficiency.
+- Established CI/CD pipelines using Jenkins, Docker, and Kubernetes, reducing deployment time by 40% and improving release cycle efficiency.
+- Conducted performance testing with Jest, Mocha, and Cypress to ensure optimized application responsiveness.
+- Collaborated with researchers, UX designers, and DevOps teams to enhance user experience (UX) and accessibility by 20%.
 
 <video width="640" height="360" controls>
   <source src="./videos/2.mp4" type="video/mp4">
