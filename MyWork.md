@@ -23,7 +23,7 @@ At Xendit, I developed a scalable UI component library using React Storybook wit
 
 ### Main Problem
 - Different products needed to be look like same
-- Synchronization of Design overhead issues 
+- Synchronization of Design overhead everytime
 ### Technologies Used
 - **React (JavaScript)** – Strongly typed UI components
 - **Storybook (JavaScript)** – Component development & documentation
