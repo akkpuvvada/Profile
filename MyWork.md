@@ -73,8 +73,17 @@ At Xendit, I developed a scalable UI component library using React Storybook wit
 
 ## Project 3: Hololens and AVP Boilerplate
 
-*(Content for this project can be added here.)*
+<video width="640" height="360" controls>
+  <source src="./videos/2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
+Other video
+
+<video width="640" height="360" controls>
+  <source src="./videos/1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ---
 
 ## Project 4: Idemia
