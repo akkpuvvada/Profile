@@ -1,123 +1,146 @@
-# AKSHAYA KUMAR PUVVADA
+# 👋 Hi, I'm **Akshaya Kumar Puvvada**
 
-📞 Phone: 9178067354  
-📧 Email: [akshayapuvvada10@gmail.com](mailto:akshayapuvvada10@gmail.com)  
-🌐 GitHub: [github.com/akkpuvvada](https://github.com/akkpuvvada)  
-🔗 LinkedIn: [linkedin.com/in/akshaya-kumar-puvvada](https://linkedin.com/in/akshaya-kumar-puvvada)  
-
----
-
-## 🏆 **Professional Summary**  
-- 6+ years of experience in Full Stack Development, specializing in JavaScript (React.js, Node.js, Express.js).  
-- Proven track record in building scalable microservices, reducing API response time by 35% through GraphQL and caching optimizations.  
-- Expertise in cloud platforms (AWS, Azure), CI/CD automation, and DevOps best practices.  
-- Designed and optimized RESTful APIs & GraphQL, improving system efficiency and reducing data retrieval time by 30%.  
-- Strong background in state management (Redux), performance tuning, and accessibility optimization.  
-- Developed and deployed secure authentication systems (OAuth 2.0, JWT) to enhance data security.  
-- Passionate about mentorship, code reviews, and Agile development, ensuring high code quality and efficiency.  
-- Experienced in Docker, Kubernetes, Terraform, improving deployment processes by 40% through automation.  
+🚀 **Founding Engineer at WWC.P.C | AI & Full-Stack Systems Engineer | Researcher at UHCL**  
+📍 Houston, TX | 💌 [akshayapuvvada10@gmail.com](mailto:akshayapuvvada10@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/akshaya-kumar-puvvada/) • [GitHub](https://github.com/akkpuvvada)
 
 ---
 
-## 🛠 **Technical Skills**  
+## 🧠 About Me
 
-- **Languages:** JavaScript (ES6+), TypeScript, Python, Java, C++  
-- **Frontend:** React.js, Redux, Next.js, Tailwind CSS, Webpack, HTML5, CSS3, Figma  
-- **Backend:** Node.js, Express.js, Django REST Framework, Spring Boot, Flask  
-- **Databases:** PostgreSQL, MongoDB, SQL Server  
-- **Cloud & DevOps:** AWS (EC2, S3, Lambda, ALB), Azure, Docker, Kubernetes, Terraform, Jenkins, CI/CD  
-- **Testing & Security:** Jest, Mocha, Cypress, Selenium, Test Driven Development (TDD), Behavior Driven Development (BDD)  
-- **Agile & Collaboration:** Code reviews, Mentorship, Agile/Scrum, Jira, Git, RESTful & GraphQL APIs  
+I started coding at **age 13**, and today I bring **16+ years of programming** and **8+ years of professional full-stack experience** across **AI, cloud, and mixed-reality systems**.  
+
+I’m currently a **Founding Engineer at WWC.P.C**, where I lead the design of AI-driven financial audit platforms and architect full-stack systems that merge intelligence, scalability, and security.  
+
+I also conduct research at the **University of Houston-Clear Lake (UHCL)** under **Dr. Ross Niswanger**, co-authoring papers on **AI-powered assistive therapy applications** for autistic children and **Vision Pro-based interactive systems**.
 
 ---
 
-## 💼 **Professional Work Experience**  
+## ⚙️ Technical Skills
 
-### **Senior Full Stack Developer | Launch Legends LLC (Part-time)**  
-📅 **Feb 2025 – Present**  
-- Developed high-performance cross-platform mobile and web applications using React Native, React.js, and NodeJS.  
-- Integrated RESTful APIs and GraphQL endpoints, optimizing data synchronization and reducing latency by 30%.  
-- Led front-end state management with Redux, improving application efficiency and reducing rendering times by 25%.  
-- Implemented authentication and authorization using OAuth 2.0 and JWT, ensuring secure user sessions.  
-- Mentored junior developers, conducted code reviews, and enforced best practices in Agile environments.  
-
----
-
-### **Full Stack Developer | University Of Houston - Clear Lake (Research Assistant)**  
-📅 **Aug 2023 – Dec 2024**  
-- Built and optimized scalable web applications using React.js, Redux, and Code Splitting, reducing page load times by 35%.  
-- Led the migration of legacy applications to AWS, improving system scalability by 50%.  
-- Engineered mixed reality applications using Apple Vision Pro, RealityKit, and Azure Spatial Anchors.  
-- Developed APIs with Django REST Framework and GraphQL, increasing query efficiency by 30%.  
-- Established CI/CD pipelines using Jenkins, Docker, and Kubernetes, decreasing deployment time by 40%.  
+| Category | Technologies |
+|-----------|---------------|
+| **Languages** | JavaScript (ES6+), TypeScript, Python, Java, C++, C# |
+| **Frontend** | SolidJS, AstroJS, React.js, Next.js, Redux, Tailwind CSS |
+| **Backend** | Node.js, Express.js, Spring Boot, Django REST, Flask |
+| **AI / ML** | OpenAI APIs, LangChain, PyTorch, CoreML, ONNX, OpenCV |
+| **Cloud & DevOps** | AWS (EC2, S3, Lambda, SNS), Azure, Docker, Kubernetes, Terraform, Jenkins, CI/CD |
+| **Database** | PostgreSQL (JSONB), MongoDB, SQL Server |
+| **iOS / XR** | Swift, RealityKit, Apple Vision Pro, ARKit, Reality Composer Pro |
+| **Testing** | Jest, Mocha, Cypress, Selenium (TDD / BDD) |
+| **Other Tools** | Datadog, GitHub Actions, Framer Motion, AI Pair Programming (Copilot, Cursor.dev) |
 
 ---
 
-### **Senior Full Stack Developer | Capgemini Engineering (Client: Xendit) (Consultant)**  
-📅 **Jul 2022 – Dec 2022**  
-- Developed React.js applications using Redux, Hooks, and Storybook, improving UI consistency and reducing dev time by 60%.  
-- Migrated class-based components to functional components, reducing bug resolution time by 25%.  
-- Designed and optimized Node.js & Express.js microservices, enhancing API response times by 35%.  
-- Automated deployments using Docker, Kubernetes, and AWS ALB, improving system reliability and reducing downtime by 99.9%.  
-- Implemented Infrastructure as Code (IaC) using Terraform and CloudFormation.  
+## 💼 Professional Experience
+
+### 🧭 **Founding Engineer & Senior Full Stack Developer — WWC.P.C**  
+📅 *Mar 2025 – Present*  
+📍 *Houston, TX (Hybrid)*
+
+- Leading the design and development of a **next-gen financial audit intelligence platform** using **AstroJS + SolidJS**.  
+- Architected **AI-driven audit tools** and **OpenAI-integrated chatbot systems** to interpret PCAOB guidelines for compliance automation.  
+- Designed and optimized **PostgreSQL JSONB schemas**, improving query performance by **30%** and enabling schema-flexible audit tracking.  
+- Built **CI/CD pipelines (GitHub Actions + Jenkins)** for rapid iteration and safe deployment.  
+- Integrated **AWS SNS, Lambda, EC2, and Datadog** for event-driven processing and observability.  
+- Curated and fine-tuned **AI agents** to handle structured financial reasoning, leading to smarter auditor workflows.  
+- Mentored developers, enforced rigorous PR standards, and fostered a culture of code excellence.  
+
+🧩 *Stack:* SolidJS, AstroJS, TypeScript, Fastify, PostgreSQL JSONB, OpenAI, AWS, Datadog, Jenkins.
 
 ---
 
-### **Senior Full Stack Engineer | Idemia (Senior Software Engineer)**  
-📅 **Jul 2018 – Jun 2022**  
-- **Modern Full-Stack Architecture:** Architected a full-stack solution using React.js for the frontend and Django Rest Framework for robust backend APIs, improving front-end performance by 40% and driving higher user retention.
-- **AWS Cloud Integration:** Deployed backend services on AWS using EC2, S3, and ALB, with infrastructure automation via Terraform—reducing API response times by 30% and ensuring scalable, resilient networking.
-- **Secure Authentication:** Developed a secure JWT-based authentication system within Django Rest Framework, reducing authentication failures by 25% and aligning with zero-trust security best practices.
-- **CI/CD Automation:** Implemented automated CI/CD pipelines with Jenkins and Terraform on AWS, cutting deployment times by 35% and accelerating release velocity.
-- **Innovative API Optimization:** Filed a patent for an API engine that optimized resource utilization and improved API handling efficiency, reducing server load by 20%.
-- **Efficient Data Management:** Optimized NoSQL database queries and designed effective indexing strategies in MongoDB, enhancing search speeds by 30%.
-- **Asynchronous Processing:** Integrated RabbitMQ for asynchronous task processing, reducing high-volume transaction times by 35%.
-- **Comprehensive Testing:** Employed unit and integration testing using Jest, Cypress, and Selenium, achieving 95% test coverage and reducing production defects by 40%.
--  **Tools & Technologies:** ReactJS V16, React Konva, Redux, CSS, SCSS, LASS, Node.js,Django, GraphQL, JWT, Nginx, Docker, AWS, NoSQL, Postman, Swagger.
-- **Project 2:**  Integrated Frontend and API Development: Developed a cutting-edge React.js frontend paired with a Django Rest Framework backend, optimizing data retrieval performance by 30% and boosting annotation accuracy by 35%.
-- **Containerization & Orchestration:** Containerized the full-stack application using Docker and managed deployments with Kubernetes on AWS, ensuring robust networking and scalable resource management.
-- **Optimized Data Processing & Security:** Leveraged Django ORM enhancements and MongoDB query optimizations to reduce data retrieval times by 30%, while implementing JWT-based authentication to secure user sessions.
-- **Automated Infrastructure & CI/CD Pipelines:** Established automated CI/CD pipelines using Jenkins and Terraform, integrating AWS services (EC2, S3, ALB) to streamline deployments and cut release times by 35%.
-- **Agile & Collaborative Development:** Collaborated in agile sprints with UX/UI teams using Figma, ensuring seamless integration between the React frontend and the Django backend for an enhanced user experience.
-- **Efficient Asynchronous Processing:** Integrated RabbitMQ for efficient image dataset processing, reducing processing times by 35% under heavy load conditions.
-- **Rigorous Code Quality & Mentorship:** Maintained high-quality code through automated scanning and regular code reviews, mentoring junior developers and achieving 95% unit test coverage with Jest.
-- Established a CI/CD pipeline with Jenkins and streamlined Git workflows, reducing deployment times by 35% while supporting agile development practices.
-- Conducted unit testing with Jest, achieving 95% test coverage for reliability and minimal defects.
-- Mentored junior developers and led frontend architecture decisions to ensure maintainability and scalability.
-- **Tools & Technologies:** ReactJS, React Hooks, Django, Konva, MongoDB, AWS, Terraform, Docker, Jenkins, RabbitMQ, Vagrant, Git, Jest, AWS ALB.
-  
+### 🌐 **Software Engineer — Launch Legends LLC (Part-time)**  
+📅 *Feb 2025 – Mar 2025*
+
+- Built **cross-platform Web3 mobile apps** using React Native, React.js, Node.js, and Web3.js.  
+- Implemented **smart contract staking and NFT minting** on Polygon and BSC networks using Solidity.  
+- Added **Metamask and Phantom wallet integration**, and enhanced UX using **Framer Motion animations**.  
+
+🧩 *Stack:* React Native, Node.js, Solidity, Web3.js, Express.js, AWS.
 
 ---
 
-### **Associate Software Engineer | Idemia**  
-📅 **Jan 2018 – Jun 2018**  
-- Designed and implemented C# classes, interfaces, and models, improving code maintainability.  
-- Developed ASP.NET Web Forms, MVC controllers, and Razor views to enhance application performance.  
-- Used ADO.NET for optimized database queries, improving data processing efficiency by 25%.  
+### 🧑‍🔬 **Research Assistant — University of Houston-Clear Lake (UHCL)**  
+📅 *Aug 2023 – Dec 2024*
+
+- Developed **Vision Pro mixed-reality therapy applications** using Swift, RealityKit, and Azure Spatial Anchors.  
+- Led **AI-driven video generation** for autistic children, converting speech prompts into short interactive visual clips.  
+- Migrated research applications to **AWS (EC2, Lambda, Terraform)**, improving scalability by **50%**.  
+- Built **Django + GraphQL APIs**, reducing query latency by **30%**.  
+- Co-authored ongoing research papers on **AI-powered assistive and rehabilitative systems**.  
+
+🧩 *Stack:* Swift, Vision Pro SDK, React, Django, Node.js, AWS, Terraform.
 
 ---
 
-## 🎓 **Education**  
+### ⚙️ **Senior Software Engineer — Capgemini (Client: Xendit)**  
+📅 *Jul 2022 – Dec 2022*
 
-### **MS, Computer Information Systems**  
-📅 **Jan 2023 - Dec 2024**  
-🏫 University Of Houston Clear Lake | **GPA: 3.7/4**  
-🏆 Best Student of the Year, Dept of Computer Science (2024)  
+- Modernized **React.js codebase** using Hooks & TDD/BDD workflows, achieving **95% test coverage**.  
+- Developed **Django REST microservices** and integrated **OAuth 2.0 / JWT authentication**.  
+- Automated infrastructure using **Docker, Kubernetes, Terraform**, ensuring near-zero downtime.  
 
-### **B. Tech Hons, Computer Science, Engineering**  
-📅 **Aug 2014 – Oct 2018**  
-🏫 Lovely Professional University | **GPA: 7.5/10**  
+🧩 *Stack:* ReactJS, Django REST, Python, AWS, Kubernetes, Terraform, Jest, Cypress.
 
 ---
 
-## 🏅 **Certifications & Achievements**  
-- **AWS Certified Developer – Associate**  
-- **Microsoft Certified Azure Developer Associate**  
-- **Best Student of the Year, University of Houston Clear Lake**  
+### 💳 **Senior Software Engineer — Idemia**  
+📅 *Jul 2018 – Jun 2022*
+
+- Architected scalable **React + Django** platforms with 40% improved UX performance.  
+- Built **AI-based image annotation tools** using OpenCV and RabbitMQ for high-volume automation.  
+- Developed **PyQt5-based ML desktop apps** for real-time traffic signal detection.  
+
+🧩 *Stack:* ReactJS, Django REST, Python OpenCV, MongoDB, RabbitMQ, AWS, Terraform.
 
 ---
 
-## 🔗 **Connect with Me**  
-- GitHub: [github.com/akkpuvvada](https://github.com/akkpuvvada)  
-- LinkedIn: [linkedin.com/in/akshaya-kumar-puvvada](https://linkedin.com/in/akshaya-kumar-puvvada)  
-- Email: [akshayapuvvada10@gmail.com](mailto:akshayapuvvada10@gmail.com)  
+### 💻 **Associate Software Engineer — Idemia**  
+📅 *Jan 2018 – Jun 2018*
+
+- Developed **C#, ASP.NET MVC applications** and optimized SQL performance by **25%**.  
+
+🧩 *Stack:* C#, ASP.NET MVC, SQL Server, ADO.NET.
+
+---
+
+## 🎓 Education
+
+**M.S. in Computer Information Systems**  
+*University of Houston-Clear Lake (2023–2024)* — GPA: **3.7 / 4.0**  
+🏆 *Outstanding Student of the Year — Dept. of Computer Science, 2024*
+
+**B.Tech (Hons) in Computer Science Engineering**  
+*Lovely Professional University (2014–2018)* — GPA: **7.5 / 10**
+
+---
+
+## 🔬 Research Interests
+
+- 🧩 **AI for Assistive Therapy:** Designing LLM-powered applications to help children with autism through multimodal interaction.  
+- 🧠 **Vision Pro & Mixed Reality Systems:** Exploring cognitive and sensory feedback loops through real-time 3D environments.  
+- ⚙️ **AI-Driven Automation in Finance:** Leveraging LLMs and structured data pipelines for intelligent auditing.  
+- 🚀 **Optimized Inference on Edge Devices:** Working on quantization (INT8 / CoreML / CUDA) to accelerate on-device AI performance.  
+- 🧬 **Human-AI Collaboration:** Studying user trust, reasoning, and explainability in AI-assisted systems.
+
+---
+
+## 🌟 Highlights
+
+- 🧭 **Founding Engineer at WWC.P.C**, leading AI-powered financial audit modernization.  
+- 🧑‍🏫 **Researcher under Dr. Ross Niswanger (UHCL)**, focusing on Vision Pro and autism-centric AI systems.  
+- 💡 Published and upcoming research on **AI + Human-Centered Design**.  
+- 💻 Spend **80% of my time coding** — passionate about blending deep tech with human impact.  
+
+---
+
+## 📫 Let’s Connect
+
+💌 [akshayapuvvada10@gmail.com](mailto:akshayapuvvada10@gmail.com)  
+🌐 [linkedin.com/in/akshaya-kumar-puvvada](https://www.linkedin.com/in/akshaya-kumar-puvvada)  
+🐙 [github.com/akkpuvvada](https://github.com/akkpuvvada)
+
+---
+
+> “I believe great software is built at the intersection of **engineering**, **research**, and **human impact**.”
